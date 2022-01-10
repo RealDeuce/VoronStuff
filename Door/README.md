@@ -11,3 +11,5 @@ The holes in the hinge leaf part of the frame are in case I needed to drill thro
 and push a piece of filament through to hold it on... I didn't need to.
 
 I left the 1mm foam tape on the side panels, which made it fit tightly in the channel.
+
+The hinges should likely be undercut a bit more to centre the door on the frame.
