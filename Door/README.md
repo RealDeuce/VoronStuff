@@ -8,7 +8,7 @@ Put the tape on the door first, then stick the extrusion side to the tape so it 
 close the door to attach it.  Seems to be the only reliable way to line up the poles.
 
 The holes in the hinge leaf part of the frame are in case I needed to drill through the acrylic
-and push a piece of filament through to hold it on... I didn't need to.
+and push a piece of filament through to hold it on... I ended up needing a couple.
 
 I left the 1mm foam tape on the side panels, which made it fit tightly in the channel.
 
